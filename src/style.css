@@ -1,0 +1,21 @@
+#box {
+    margin: auto;
+    border: 10px solid;
+    border-color: darkblue #22ff00 #9900ff red;
+    padding: 10px;
+}
+#box p {
+    border: 3px dotted darkred;
+    padding: 10px;
+    text-align: center;
+}
+#p1:hover {
+    color: #9900ff;
+}
+#p2:hover {
+    color: darkblue;
+}
+#p3:hover {
+    color: chartreuse;
+}
+
